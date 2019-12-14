@@ -1,0 +1,1 @@
+{"version":3,"sources":["page/page2/index.js"],"names":["Demo2","props"],"mappings":"kGAAA,mEACe,SAASA,EAAMC,GAC1B,OACA","file":"static/js/8.ac5abc6c.chunk.js","sourcesContent":["import React, { useState, useEffect } from 'react'\r\nexport default function Demo2(props) {\r\n    return (\r\n    <>\r\n    </>\r\n    )\r\n}"],"sourceRoot":""}
